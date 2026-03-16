@@ -2,28 +2,18 @@
 <h3 align="center">Python Engineer | Automation | Developer Tooling | Backend Projects</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/YOUR-FACEBOOK">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  Building practical software with Python, backend systems, and workflow automation.
 </p>
 
 ---
 
 ## About Me
 
-Hello there, welcome to my GitHub.
-
-I'm focused on building practical software with Python, automation, backend systems, and developer tooling. I enjoy creating projects that solve real workflow problems and help me grow as an engineer.
+I enjoy building projects that are useful, maintainable, and grounded in real engineering problems.
 
 - I’m currently working on Python automation, CLI tools, and backend-oriented projects
 - I’m exploring AI-assisted developer workflows and open-source contributions
-- I’m interested in scalable systems, cloud infrastructure, and real-world engineering problems
+- I’m interested in scalable systems, developer productivity, and practical cloud workflows
 - Fun fact: The QWERTY keyboard was originally designed to slow typing speed
 
 ---
@@ -58,6 +48,14 @@ I'm focused on building practical software with Python, automation, backend syst
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Featured Work
+
+- [Personal Finance Tracker](https://github.com/itsviseph/personal-finance-tracker): CLI-based Python project for tracking income, expenses, subscriptions, and balance summaries
+- [Event Analyzer](https://github.com/itsviseph/event-analyzer): Python project focused on event processing, sliding-window analysis, and burst detection
+- [typhon](https://github.com/itsviseph/typhon): Open-source contribution work in a Go HTTP library
 
 ---
 
