@@ -45,6 +45,7 @@ I like building projects that solve real workflow problems and help me grow as a
 - `git-bot`: local automation toolkit for Git workflows, AI-assisted PR generation, and project scaffolding
 - `python-developer-productivity-cli`: private Python tooling project focused on improving day-to-day developer workflows
 - `python-cli-tool-for-organizing-screensho`: private CLI utility for organizing screenshots and local files
+- `veltrix-labs`: private TypeScript project where I’m exploring product-style development and broader application structure
 
 ---
 
