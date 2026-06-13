@@ -3,7 +3,7 @@
 
 <p align="center">
 Python &amp; TypeScript engineer who ships production LLM and workflow-automation systems —
-ex-Monzo &amp; TSYS (FCA-regulated UK fintech), MSc FinTech (Distinction). Open to UK-remote roles.
+ex-Monzo &amp; TSYS (FCA-regulated UK fintech), MSc FinTech (Distinction). Open to UK roles (remote or relocation).
 </p>
 
 ---
