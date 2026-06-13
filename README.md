@@ -1,20 +1,20 @@
 <h1 align="center">Hi, I'm Vishal Joseph Dsouza</h1>
-<h3 align="center">AI Automation Engineer · LLM Apps &amp; Workflow Automation · FinTech / RegTech</h3>
+<h3 align="center">AI Automation Engineer · Applied LLM Integration &amp; Workflow Automation · FinTech / RegTech</h3>
 
 <p align="center">
 Python &amp; TypeScript engineer who ships production LLM and workflow-automation systems —
-ex-Monzo (AML / financial crime), MSc FinTech (Distinction). Open to UK-remote roles.
+ex-Monzo &amp; TSYS (FCA-regulated UK fintech), MSc FinTech (Distinction). Open to UK-remote roles.
 </p>
 
 ---
 
 ## About
 
-I build and operate real automation systems end-to-end — LLM document pipelines, event-driven workflow automation (n8n), SMS/telephony + payments integrations, and the infrastructure to run them. I pair that with 3 years in FCA-regulated fintech (Monzo, TSYS) across AML, financial crime, and collections, so I'm at home automating finance- and compliance-heavy workflows.
+I build and operate real automation systems end-to-end — LLM document pipelines, event-driven workflow automation (n8n), SMS/telephony + payments integrations, and the infrastructure to run them. I pair that with nearly two years in FCA-regulated UK fintech and banking (Monzo, TSYS) across collections, vulnerable-customer support, and regulated operations, so I'm at home automating finance- and compliance-heavy workflows.
 
 - 🔭 Building **Veltrix Labs**, a live automation platform → **[veltrixlabs.tech](https://veltrixlabs.tech)**
 - 🧰 Stack: Python · FastAPI · n8n · Docker · PostgreSQL / Redis · LLM APIs (Claude / OpenAI) · TypeScript / Next.js
-- 🌱 Currently learning: LangChain · LangGraph · RAG · vector databases
+- 🌱 Currently learning: LangChain · LangGraph · RAG · vector databases *(Zero To Mastery — AI Engineering)*
 - 🎓 MSc Financial Technology (Distinction) — deep-learning dissertation on financial-risk detection
 - 📫 vish12jos2000@gmail.com · [LinkedIn](https://linkedin.com/in/viseph)
 
@@ -28,7 +28,7 @@ I build and operate real automation systems end-to-end — LLM document pipeline
 
 ### Client work (under NDA — code private, available to discuss)
 - **LLM document-processing API** for a UK accounting firm — async FastAPI + Tesseract OCR + multi-provider LLM extraction (Claude/OpenAI) with confidence scoring. *(I built the backend &amp; infrastructure.)*
-- **Accounts-receivable automation platform** for a UK construction client — Next.js · Supabase · n8n · Xero · Stripe.
+- **Accounts-receivable automation platform** for a UK construction client — Next.js · Supabase · n8n · Xero · Stripe · Twilio · OpenAI.
 
 ---
 
@@ -46,4 +46,4 @@ I build and operate real automation systems end-to-end — LLM document pipeline
 
 **LLMs &amp; automation:** Anthropic Claude · OpenAI · prompt engineering · multi-provider LLM integration · OCR · Twilio / Vonage · Stripe · Google APIs
 
-**Domain:** AML transaction monitoring · SAR · KYC / CDD · FCA Consumer Duty · fraud &amp; chargeback · credit risk
+**Domain:** FCA Consumer Duty · AML / financial-crime awareness · SAR referral process · fraud &amp; chargeback · credit-risk &amp; collections · GDPR
