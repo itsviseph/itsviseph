@@ -2,7 +2,7 @@
 <h3 align="center">Automation &amp; AI Builder · Customer-Focused · ex-Monzo/TSYS fintech · MSc FinTech (Distinction)</h3>
 
 <p align="center">
-I build automation and AI tools — and I've spent close to two years in front-line customer support for regulated UK fintech.<br/>
+I build automation and AI tools — and I've worked in front-line customer support for regulated UK fintech (Monzo, TSYS).<br/>
 Open to remote roles in automation, AI, customer success/support, and fintech operations.
 </p>
 
@@ -22,7 +22,7 @@ I design event-driven automations, email-sequencing pipelines, and LLM-powered t
 
 ## Featured projects
 
-- **[customer-lifecycle-engine](https://github.com/itsviseph/customer-lifecycle-engine)** — an explainable **customer-lifecycle automation engine**: scores customer health &amp; churn risk, classifies the lifecycle stage, and fires the right action (onboarding, re-engagement, **CSM hand-off for at-risk accounts**, win-back), with an optional **LLM personalisation** layer. Pure Python, **fully unit-tested**. *(customer success / lifecycle + AI automation)*
+- **[customer-lifecycle-engine](https://github.com/itsviseph/customer-lifecycle-engine)** — an explainable **customer-lifecycle automation engine**: scores customer health &amp; churn risk, classifies the lifecycle stage, and fires the right action (onboarding, re-engagement, **CSM hand-off for at-risk accounts**, win-back), with an optional **LLM personalisation** layer. Pure Python, **27 unit tests**. *(a self-built reference engine — customer lifecycle + AI automation)*
 - **[algo-trading-system](https://github.com/itsviseph/algo-trading-system)** — ML crypto-futures trading system with an 8-year **walk-forward validation** harness that **caught its own overfitting** and rejected the strategy from live trading — the discipline that separates deployable ML from a backtest illusion. *(Python · scikit-learn · ccxt · Docker)*
 - **[coffee-sensory-analysis](https://github.com/itsviseph/coffee-sensory-analysis)** — a coffee cupping/sensory web app (CSV/Excel import, interactive charts, one-click PDF reports) built for a specialty-coffee estate in India. *(React · Chart.js · jsPDF)*
 - **Veltrix Labs** — *live; code private* — missed-call → instant-SMS customer recovery for SMEs: 14 event-driven n8n workflows, Twilio/Vonage SMS (A2P 10DLC-compliant), Stripe billing, on a Dockerized Linux VPS → **[veltrixlabs.tech](https://veltrixlabs.tech)**
